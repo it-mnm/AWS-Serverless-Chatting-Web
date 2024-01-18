@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "serverless-deployment-bucket": "^1.5.2",
+    "serverless-plugin-resource-tagging": "^1.1.1",
+    "serverless-plugin-split-stacks": "^1.11.2"
+  },
+  "dependencies": {
+    "moment": "^2.29.1"
+
+  }
+}

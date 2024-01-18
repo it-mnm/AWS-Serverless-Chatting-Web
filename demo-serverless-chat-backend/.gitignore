@@ -1,0 +1,7 @@
+node_modules/*
+node_modules
+jspm_packages
+
+# Serverless directories
+.serverless
+serverless.yml
