@@ -290,12 +290,15 @@ AWS의 서버리스 서비스를 활용하여 채팅방을 구현하였습니다
     
 2. AWS 환경에서 채팅 웹을 Amplify에 배포하였습니다. 이때 Serverless Framework를 활용하여 AWS CloudFormation에 Lambda 함수와 APIGateway를 동시 배포하였습니다.
     - Architecture
+        <img src="https://github.com/it-mnm/Serverless-Chatting-Web/assets/137988290/0dad1f1e-4abe-41f3-a31e-bf633a259c8a">
         
-        ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/df3849f7-f233-4fe8-88e6-7e7528b6fb56/e8b7ae56-ef8b-493c-8ed6-6f06553e6d28/Untitled.png)
+      
         
     - 배포
         - Lambda 배포
+          <img src="https://github.com/it-mnm/Serverless-Chatting-Web/assets/137988290/4418975c-c57f-4400-aa5b-538bebb20ec7">
             
+
             ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/df3849f7-f233-4fe8-88e6-7e7528b6fb56/1d02e577-4a5a-4ed1-adb9-331f25d1601b/Untitled.png)
             
             ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/df3849f7-f233-4fe8-88e6-7e7528b6fb56/9eb39c25-708f-4f5c-8007-f3089847d71a/Untitled.png)
