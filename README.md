@@ -5,8 +5,9 @@
 AWS의 서버리스 서비스를 활용하여 채팅방을 구현하였습니다.
 
 - 서비스 시연영상
-    
-    <img width="100%" src="https://github.com/it-mnm/Serverless-Chatting-Web/issues/1#issue-2090085876"/>
+    <p align="center">
+  <img src="https://github.com/it-mnm/Serverless-Chatting-Web/issues/1#issue-2090085876">
+</p>
     
 
 ---
