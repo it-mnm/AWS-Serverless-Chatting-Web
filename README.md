@@ -297,23 +297,19 @@ AWS의 서버리스 서비스를 활용하여 채팅방을 구현하였습니다
     - 배포
         - Lambda 배포
           <img src="https://github.com/it-mnm/Serverless-Chatting-Web/assets/137988290/4418975c-c57f-4400-aa5b-538bebb20ec7">
-            
+            <img src="https://github.com/it-mnm/Serverless-Chatting-Web/assets/137988290/a8af2355-4192-46fc-9220-c5bc022c84d0">
+            <img src="https://github.com/it-mnm/Serverless-Chatting-Web/assets/137988290/cacda95f-eef4-4be4-a00d-4065ed0a9e12">
+            <img src=" https://github.com/it-mnm/Serverless-Chatting-Web/assets/137988290/92d23da6-d490-4957-8441-a4fca2442c68">
+            <img src="https://github.com/it-mnm/Serverless-Chatting-Web/assets/137988290/00b28ca0-5e6e-4ae3-9378-64be38cca600">
 
-            ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/df3849f7-f233-4fe8-88e6-7e7528b6fb56/1d02e577-4a5a-4ed1-adb9-331f25d1601b/Untitled.png)
-            
-            ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/df3849f7-f233-4fe8-88e6-7e7528b6fb56/9eb39c25-708f-4f5c-8007-f3089847d71a/Untitled.png)
-            
-            ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/df3849f7-f233-4fe8-88e6-7e7528b6fb56/154c0e52-644a-45aa-978a-20273ba0633e/Untitled.png)
-            
-            ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/df3849f7-f233-4fe8-88e6-7e7528b6fb56/c024e619-f178-44f7-8b74-fd7017aa129a/Untitled.png)
-            
-            ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/df3849f7-f233-4fe8-88e6-7e7528b6fb56/bdf14b76-a7f1-415a-8b26-2c2a5995ab0c/Untitled.png)
+
+
             
         - Amplify 배포
-            
-            ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/df3849f7-f233-4fe8-88e6-7e7528b6fb56/1d453788-1bb7-49f2-b128-494e186010b9/Untitled.png)
-            
-            ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/df3849f7-f233-4fe8-88e6-7e7528b6fb56/259b20cf-738f-4728-b24d-2677fd954c96/Untitled.png)
+          <img src="https://github.com/it-mnm/Serverless-Chatting-Web/assets/137988290/090a97f8-3d6c-4e35-953f-3c06e0657cc6">
+
+            <img src="https://github.com/it-mnm/Serverless-Chatting-Web/assets/137988290/da0fa22f-d5be-4379-87bb-f0e3e272063a">
+
             
         
     
